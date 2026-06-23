@@ -1,0 +1,7 @@
+{
+  "_comment": "Local DNS mapping table used by the CloudNotes internal resolver. CloudNotes looks up internal hostnames here instead of using public DNS. If a hostname is missing or misspelled, resolution fails.",
+  "mappings": {
+    "wether-api.internal": "127.0.0.1",
+    "notes-db.internal": "127.0.0.1"
+  }
+}

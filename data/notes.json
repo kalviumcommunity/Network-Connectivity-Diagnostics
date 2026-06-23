@@ -1,0 +1,19 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Welcome to CloudNotes",
+      "body": "This is a sample note served by the CloudNotes lab server."
+    },
+    {
+      "id": 2,
+      "title": "Troubleshooting tip",
+      "body": "Always read the logs before changing config."
+    },
+    {
+      "id": 3,
+      "title": "Weather widget",
+      "body": "The dashboard pulls data from weather-api.internal."
+    }
+  ]
+}

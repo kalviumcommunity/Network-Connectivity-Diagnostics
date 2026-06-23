@@ -1,0 +1,7 @@
+2026-06-23 09:00:01,102 INFO Starting CloudNotes server
+2026-06-23 09:00:01,104 ERROR Unable to resolve weather-api.internal (no record in hosts_mapping.json)
+2026-06-23 09:00:01,104 ERROR Startup dependency check failed for weather-api.internal
+2026-06-23 09:00:01,105 WARNING Service listening only on 127.0.0.1 - not reachable from other interfaces
+2026-06-23 09:00:01,106 INFO CloudNotes listening on 127.0.0.1:9000
+2026-06-23 09:00:14,233 INFO 127.0.0.1 - "GET /weather HTTP/1.1" 502 -
+2026-06-23 09:00:14,233 ERROR Unable to resolve weather-api.internal (no record in hosts_mapping.json)

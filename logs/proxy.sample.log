@@ -1,0 +1,6 @@
+2026-06-23 09:00:02,201 INFO Starting CloudNotes proxy
+2026-06-23 09:00:02,202 INFO Proxy listening on 0.0.0.0:8080 -> upstream 127.0.0.1:9001
+2026-06-23 09:00:20,455 INFO Forwarding /health -> 127.0.0.1:9001
+2026-06-23 09:00:20,456 ERROR Upstream connection refused: 127.0.0.1:9001
+2026-06-23 09:00:35,889 INFO Forwarding /health -> 127.0.0.1:9001
+2026-06-23 09:00:35,890 ERROR Upstream connection refused: 127.0.0.1:9001
