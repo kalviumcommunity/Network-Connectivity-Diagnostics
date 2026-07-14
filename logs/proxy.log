@@ -4,3 +4,23 @@
 2026-06-23 09:00:20,456 ERROR Upstream connection refused: 127.0.0.1:9001
 2026-06-23 09:00:35,889 INFO Forwarding /health -> 127.0.0.1:9001
 2026-06-23 09:00:35,890 ERROR Upstream connection refused: 127.0.0.1:9001
+2026-07-14 09:42:03,459 INFO Starting CloudNotes proxy
+2026-07-14 09:42:03,476 INFO Proxy listening on 0.0.0.0:8080 -> upstream 127.0.0.1:9001
+2026-07-14 09:42:40,205 INFO Forwarding /health -> 127.0.0.1:9001
+2026-07-14 09:42:40,205 ERROR Upstream connection refused: 127.0.0.1:9001
+2026-07-14 09:42:40,205 INFO 127.0.0.1 - "GET /health HTTP/1.1" 502 -
+2026-07-14 09:47:01,028 INFO Starting CloudNotes proxy
+2026-07-14 09:47:01,035 INFO Proxy listening on 0.0.0.0:8080 -> upstream 127.0.0.1:9001
+2026-07-14 09:51:53,610 INFO Starting CloudNotes proxy
+2026-07-14 09:51:53,622 INFO Proxy listening on 0.0.0.0:8080 -> upstream 127.0.0.1:9001
+2026-07-14 09:52:52,273 INFO Forwarding /health -> 127.0.0.1:9001
+2026-07-14 09:52:52,273 ERROR Upstream connection refused: 127.0.0.1:9001
+2026-07-14 09:52:52,274 INFO 127.0.0.1 - "GET /health HTTP/1.1" 502 -
+2026-07-14 09:54:27,120 INFO Starting CloudNotes proxy
+2026-07-14 09:54:27,129 INFO Proxy listening on 0.0.0.0:8080 -> upstream 127.0.0.1:9000
+2026-07-14 09:54:28,074 INFO Forwarding /health -> 127.0.0.1:9000
+2026-07-14 09:54:28,075 INFO Relayed 198 bytes from upstream
+2026-07-14 09:54:56,613 INFO Forwarding /health -> 127.0.0.1:9000
+2026-07-14 09:54:56,615 INFO Relayed 198 bytes from upstream
+2026-07-14 09:54:56,624 INFO Forwarding /health -> 127.0.0.1:9000
+2026-07-14 09:54:56,624 INFO Relayed 198 bytes from upstream

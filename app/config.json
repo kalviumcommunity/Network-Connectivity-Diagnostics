@@ -1,7 +1,7 @@
 {
   "_comment": "Lab configuration for Network-Connectivity-Diagnostics. Some values are intentionally broken for the troubleshooting exercises.",
   "cloudnotes": {
-    "host": "127.0.0.1",
+    "host": "0.0.0.0",
     "port": 9000,
     "weather_api_host": "weather-api.internal"
   },
@@ -9,6 +9,6 @@
     "host": "0.0.0.0",
     "port": 8080,
     "upstream_host": "127.0.0.1",
-    "upstream_port": 9001
+    "upstream_port": 9000
   }
 }
