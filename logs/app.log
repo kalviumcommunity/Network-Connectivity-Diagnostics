@@ -5,3 +5,26 @@
 2026-06-23 09:00:01,106 INFO CloudNotes listening on 127.0.0.1:9000
 2026-06-23 09:00:14,233 INFO 127.0.0.1 - "GET /weather HTTP/1.1" 502 -
 2026-06-23 09:00:14,233 ERROR Unable to resolve weather-api.internal (no record in hosts_mapping.json)
+2026-07-14 09:42:03,459 INFO Starting CloudNotes server
+2026-07-14 09:42:03,460 ERROR Unable to resolve weather-api.internal (no record in hosts_mapping.json)
+2026-07-14 09:42:03,460 ERROR Startup dependency check failed for weather-api.internal
+2026-07-14 09:42:03,460 WARNING Service listening only on 127.0.0.1 - not reachable from other interfaces
+2026-07-14 09:42:03,476 INFO CloudNotes listening on 127.0.0.1:9000
+2026-07-14 09:44:31,832 ERROR Unable to resolve weather-api.internal (no record in hosts_mapping.json)
+2026-07-14 09:44:31,832 INFO 127.0.0.1 - "GET /weather HTTP/1.1" 502 -
+2026-07-14 09:47:01,028 INFO Starting CloudNotes server
+2026-07-14 09:47:01,028 INFO Resolved weather-api.internal -> 127.0.0.1
+2026-07-14 09:47:01,028 WARNING Service listening only on 127.0.0.1 - not reachable from other interfaces
+2026-07-14 09:47:01,035 INFO CloudNotes listening on 127.0.0.1:9000
+2026-07-14 09:47:01,988 INFO Resolved weather-api.internal -> 127.0.0.1
+2026-07-14 09:47:01,988 INFO 127.0.0.1 - "GET /weather HTTP/1.1" 200 -
+2026-07-14 09:51:53,610 INFO Starting CloudNotes server
+2026-07-14 09:51:53,610 INFO Resolved weather-api.internal -> 127.0.0.1
+2026-07-14 09:51:53,622 INFO CloudNotes listening on 0.0.0.0:9000
+2026-07-14 09:51:54,569 INFO 127.0.0.1 - "GET /health HTTP/1.1" 200 -
+2026-07-14 09:54:27,120 INFO Starting CloudNotes server
+2026-07-14 09:54:27,121 INFO Resolved weather-api.internal -> 127.0.0.1
+2026-07-14 09:54:27,129 INFO CloudNotes listening on 0.0.0.0:9000
+2026-07-14 09:54:28,074 INFO 127.0.0.1 - "GET /health HTTP/1.0" 200 -
+2026-07-14 09:54:56,614 INFO 127.0.0.1 - "GET /health HTTP/1.0" 200 -
+2026-07-14 09:54:56,624 INFO 127.0.0.1 - "GET /health HTTP/1.0" 200 -
